@@ -1,0 +1,11 @@
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.csprojResolveAssemblyReference.cache
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.MainForm.resources
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.UserControl1.resources
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.csproj.GenerateResource.Cache
+D:\Project\ACRTool\ACRTool\bin\Debug\ACRTool.exe.config
+D:\Project\ACRTool\ACRTool\bin\Debug\ACRTool.exe
+D:\Project\ACRTool\ACRTool\bin\Debug\ACRTool.pdb
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.exe
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.pdb
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.About.resources
+D:\Project\ACRTool\ACRTool\obj\Debug\ACRTool.Configuration.resources
